@@ -204,3 +204,5 @@ export class DataTypesService {
 
         return dataTypeReturn;
     }
+
+}
